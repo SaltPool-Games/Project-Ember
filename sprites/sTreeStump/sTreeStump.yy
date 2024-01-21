@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sTreeStump",
-  "bbox_bottom": 113,
-  "bbox_left": 37,
-  "bbox_right": 65,
-  "bbox_top": 99,
+  "bbox_bottom": 14,
+  "bbox_left": 0,
+  "bbox_right": 28,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ab632df4-06cf-4b1e-a808-970a17a2e9fe",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9d4c8735-68b3-4f03-93f4-e573c802a28c",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 15,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7b04edd8-36f0-42ae-b728-a19b52cdcda3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2a3cf5de-89c2-4513-9a7e-8f6bad15e683","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ab632df4-06cf-4b1e-a808-970a17a2e9fe","path":"sprites/sTreeStump/sTreeStump.yy",},},},"Disabled":false,"id":"a6f3dd10-7ac7-4b80-838f-500e9088bf33","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9d4c8735-68b3-4f03-93f4-e573c802a28c","path":"sprites/sTreeStump/sTreeStump.yy",},},},"Disabled":false,"id":"53c1907c-57fc-4d44-9a7a-b30791770a02","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 29,
 }

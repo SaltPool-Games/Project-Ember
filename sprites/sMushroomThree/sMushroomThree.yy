@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sMushroomThree",
-  "bbox_bottom": 111,
-  "bbox_left": 53,
-  "bbox_right": 64,
-  "bbox_top": 101,
+  "bbox_bottom": 10,
+  "bbox_left": 0,
+  "bbox_right": 11,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"849f958c-bf46-4fc3-ba7f-38ca843d4c18",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"bb34eb2c-6a0a-435d-b853-8b5dddef72f5",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 11,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5b02cdd2-39cb-4228-8b37-e85c25311b08","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4264ea49-e3a0-4087-8c85-55ba429f7045","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"849f958c-bf46-4fc3-ba7f-38ca843d4c18","path":"sprites/sMushroomThree/sMushroomThree.yy",},},},"Disabled":false,"id":"22ccaba3-9e8d-4336-a9e9-cdaff536402e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"bb34eb2c-6a0a-435d-b853-8b5dddef72f5","path":"sprites/sMushroomThree/sMushroomThree.yy",},},},"Disabled":false,"id":"17d5bd86-21cd-4c99-9301-0b72a8c387ec","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 12,
 }

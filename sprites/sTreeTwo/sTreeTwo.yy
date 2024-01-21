@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sTreeTwo",
-  "bbox_bottom": 118,
-  "bbox_left": 15,
-  "bbox_right": 86,
-  "bbox_top": 17,
+  "bbox_bottom": 101,
+  "bbox_left": 0,
+  "bbox_right": 71,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"49c2cd81-5bf7-42e3-982f-bab36d79078e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"17ac874f-b227-475d-bdd5-c0705b7d209f",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 102,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"35370f2e-1c31-4863-a819-1c1f82d10e1b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e137e648-dafe-4810-bcf5-bd78f1388dad","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"49c2cd81-5bf7-42e3-982f-bab36d79078e","path":"sprites/sTreeTwo/sTreeTwo.yy",},},},"Disabled":false,"id":"57ba6135-b55f-4d0b-89cf-2f31024ba218","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"17ac874f-b227-475d-bdd5-c0705b7d209f","path":"sprites/sTreeTwo/sTreeTwo.yy",},},},"Disabled":false,"id":"a0d75165-4ae5-4c76-8860-86c53fc214a9","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 72,
 }

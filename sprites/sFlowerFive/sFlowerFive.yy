@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sFlowerFive",
-  "bbox_bottom": 110,
-  "bbox_left": 70,
-  "bbox_right": 76,
-  "bbox_top": 98,
+  "bbox_bottom": 12,
+  "bbox_left": 0,
+  "bbox_right": 6,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"e6275748-9b16-4430-8e8a-fef52b46d5e6",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"312e3484-2f89-4604-81ad-e4af71c9fd32",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 13,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"75da4092-c13a-4445-ba9f-729754d29a30","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4623f48b-1b7a-459d-9701-a7c2cb7054a4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"e6275748-9b16-4430-8e8a-fef52b46d5e6","path":"sprites/sFlowerFive/sFlowerFive.yy",},},},"Disabled":false,"id":"f552444f-9976-4df5-9441-c06c34b64f07","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"312e3484-2f89-4604-81ad-e4af71c9fd32","path":"sprites/sFlowerFive/sFlowerFive.yy",},},},"Disabled":false,"id":"d9067cb1-f93c-4a7a-9c32-bc6f35284224","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 7,
 }

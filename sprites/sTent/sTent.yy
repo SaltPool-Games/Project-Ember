@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sTent",
-  "bbox_bottom": 117,
-  "bbox_left": 32,
-  "bbox_right": 100,
-  "bbox_top": 77,
+  "bbox_bottom": 39,
+  "bbox_left": 0,
+  "bbox_right": 68,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"7517ae23-f4b8-4071-9cd5-99cf53164dd2",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"52098476-43b1-440b-ac2e-1ddbdebda380",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 40,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2e3666c1-2401-43f9-9358-cd6bc287f766","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6b81a692-7ae3-4ee6-a770-9ca046f8b39b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"7517ae23-f4b8-4071-9cd5-99cf53164dd2","path":"sprites/sTent/sTent.yy",},},},"Disabled":false,"id":"b98e7625-5e54-4598-8e9d-4d32ddb60f94","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"52098476-43b1-440b-ac2e-1ddbdebda380","path":"sprites/sTent/sTent.yy",},},},"Disabled":false,"id":"fb5e30bd-a92c-442a-aecf-5b07eb55de19","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 69,
 }

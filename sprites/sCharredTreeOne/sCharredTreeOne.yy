@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sCharredTreeOne",
-  "bbox_bottom": 117,
-  "bbox_left": 36,
-  "bbox_right": 86,
-  "bbox_top": 10,
+  "bbox_bottom": 107,
+  "bbox_left": 0,
+  "bbox_right": 50,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"ce709f56-7580-4342-9697-9f8b3695421a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"2f25025e-7b32-4460-8ceb-b1e181c6624b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 108,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"30fd56c5-2094-4e07-8a61-89d97b294c8c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"a126f23b-2a53-415c-83a8-1bd604871d50","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"ce709f56-7580-4342-9697-9f8b3695421a","path":"sprites/sCharredTreeOne/sCharredTreeOne.yy",},},},"Disabled":false,"id":"d8ff4902-9e97-4f95-86c3-e4eabc25b170","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"2f25025e-7b32-4460-8ceb-b1e181c6624b","path":"sprites/sCharredTreeOne/sCharredTreeOne.yy",},},},"Disabled":false,"id":"c2fc64c2-a9f6-4c6f-990c-23031bd964ce","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 51,
 }

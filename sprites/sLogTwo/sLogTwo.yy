@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sLogTwo",
-  "bbox_bottom": 116,
-  "bbox_left": 83,
-  "bbox_right": 106,
-  "bbox_top": 102,
+  "bbox_bottom": 14,
+  "bbox_left": 0,
+  "bbox_right": 23,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c4201799-0cb9-41c6-a3f9-0985db5e6d7a",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"5cda5179-512d-46cf-aa67-73fb2b4b5b38",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 15,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"59f3c842-63eb-48cb-bd62-1e214073f82e","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"6c1858b0-b407-445c-a84e-bf8222607333","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c4201799-0cb9-41c6-a3f9-0985db5e6d7a","path":"sprites/sLogTwo/sLogTwo.yy",},},},"Disabled":false,"id":"bf925e3d-4103-4def-86b1-f983d54a1a85","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"5cda5179-512d-46cf-aa67-73fb2b4b5b38","path":"sprites/sLogTwo/sLogTwo.yy",},},},"Disabled":false,"id":"408ddf4e-b807-4ebc-99a2-034b85af554e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 24,
 }

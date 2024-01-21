@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sSmallRock",
-  "bbox_bottom": 112,
-  "bbox_left": 42,
-  "bbox_right": 63,
-  "bbox_top": 103,
+  "bbox_bottom": 9,
+  "bbox_left": 0,
+  "bbox_right": 21,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1151f815-419b-4888-99da-8b1f65db965d",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"741cbce4-8bde-43bd-855a-195147a3f368",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 10,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3a508133-4a9d-444a-8da4-cd4597e73e15","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"73bad180-7a44-4eed-8f93-bb74e32c28dc","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1151f815-419b-4888-99da-8b1f65db965d","path":"sprites/sSmallRock/sSmallRock.yy",},},},"Disabled":false,"id":"7eda18eb-5eb9-4e51-865b-5f04027df41b","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"741cbce4-8bde-43bd-855a-195147a3f368","path":"sprites/sSmallRock/sSmallRock.yy",},},},"Disabled":false,"id":"7090662e-38b6-4924-879b-8c6aea516781","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 22,
 }

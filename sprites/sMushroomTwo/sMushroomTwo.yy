@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sMushroomTwo",
-  "bbox_bottom": 111,
-  "bbox_left": 46,
-  "bbox_right": 64,
-  "bbox_top": 104,
+  "bbox_bottom": 7,
+  "bbox_left": 0,
+  "bbox_right": 18,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"b8b6e543-73de-48bf-bded-c995f169b207",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"25658afa-654e-43df-a143-9de90e9b1e3c",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 8,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5066f3d2-0870-49cd-a679-38b218e23ab3","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d2d697cc-6475-4e82-80ef-9f2d229b79f8","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"b8b6e543-73de-48bf-bded-c995f169b207","path":"sprites/sMushroomTwo/sMushroomTwo.yy",},},},"Disabled":false,"id":"00ad60d9-347a-406a-840b-e92079671c87","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"25658afa-654e-43df-a143-9de90e9b1e3c","path":"sprites/sMushroomTwo/sMushroomTwo.yy",},},},"Disabled":false,"id":"d5526a29-8051-4819-b6e5-aeffd2ae2841","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 19,
 }

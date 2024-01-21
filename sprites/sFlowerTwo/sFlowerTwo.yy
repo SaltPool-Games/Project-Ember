@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sFlowerTwo",
-  "bbox_bottom": 107,
-  "bbox_left": 70,
-  "bbox_right": 76,
-  "bbox_top": 94,
+  "bbox_bottom": 13,
+  "bbox_left": 0,
+  "bbox_right": 6,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9f6e894b-ab69-414c-9c7e-3bdd6fc1335e",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"1fc8f808-7bd5-4e5e-863b-b33f5ea51f78",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 14,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"1467efa5-2db4-4cfd-9d5d-21dd8edd0e54","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5893aeaa-9428-4e58-baef-7ae7d8c69553","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9f6e894b-ab69-414c-9c7e-3bdd6fc1335e","path":"sprites/sFlowerTwo/sFlowerTwo.yy",},},},"Disabled":false,"id":"c45add66-924f-46d5-b8b9-ca76b620b08d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"1fc8f808-7bd5-4e5e-863b-b33f5ea51f78","path":"sprites/sFlowerTwo/sFlowerTwo.yy",},},},"Disabled":false,"id":"3fa6dc25-dba6-4b7f-b318-711809285af6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 7,
 }

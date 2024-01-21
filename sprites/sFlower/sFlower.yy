@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sFlower",
-  "bbox_bottom": 107,
-  "bbox_left": 69,
-  "bbox_right": 79,
-  "bbox_top": 97,
+  "bbox_bottom": 10,
+  "bbox_left": 0,
+  "bbox_right": 10,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"44541ddc-203f-468c-b862-0ebd8aca9ebd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"a71bbfb7-7043-4f86-88ec-a6506b1b313c",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 11,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"2d5b4ba2-18fe-4024-bb95-159396f500d4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"545e1ac4-48a8-47e0-a292-a7c37c9e2c15","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"44541ddc-203f-468c-b862-0ebd8aca9ebd","path":"sprites/sFlower/sFlower.yy",},},},"Disabled":false,"id":"a1525d3c-383d-4d4c-808d-4f9af5010b3e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"a71bbfb7-7043-4f86-88ec-a6506b1b313c","path":"sprites/sFlower/sFlower.yy",},},},"Disabled":false,"id":"00193723-7d9c-4269-a136-90002d7a7a3e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 11,
 }

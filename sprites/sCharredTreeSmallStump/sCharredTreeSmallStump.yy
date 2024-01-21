@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sCharredTreeSmallStump",
-  "bbox_bottom": 113,
-  "bbox_left": 37,
-  "bbox_right": 65,
-  "bbox_top": 99,
+  "bbox_bottom": 14,
+  "bbox_left": 0,
+  "bbox_right": 28,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"515d43d2-fe98-457a-a252-a8e3d20e50c5",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3a473a23-263e-4fbe-bf4e-88120a8a45e6",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 15,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"7f58f019-17ef-42fb-9377-b44c480b0a0b","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"f2d71bee-79ce-4aec-a47d-a9a36f866b60","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"515d43d2-fe98-457a-a252-a8e3d20e50c5","path":"sprites/sCharredTreeSmallStump/sCharredTreeSmallStump.yy",},},},"Disabled":false,"id":"22a0b84b-1aa0-4e3c-b6ab-6c6474322377","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3a473a23-263e-4fbe-bf4e-88120a8a45e6","path":"sprites/sCharredTreeSmallStump/sCharredTreeSmallStump.yy",},},},"Disabled":false,"id":"9d524bcd-d923-43ab-b7d0-8c26cc9880fb","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 29,
 }

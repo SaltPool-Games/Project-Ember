@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sCharredLogThree",
-  "bbox_bottom": 111,
-  "bbox_left": 24,
-  "bbox_right": 49,
-  "bbox_top": 100,
+  "bbox_bottom": 11,
+  "bbox_left": 0,
+  "bbox_right": 25,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3d171842-e23a-44e8-8c1a-010228d5efb0",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3e079568-b27b-46fd-be0a-fc30f22b4a9b",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 12,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"4652030b-7bc2-4caa-81ca-d3085b8f2c04","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"83abcd9b-9401-4a41-9d77-a91cba47af60","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3d171842-e23a-44e8-8c1a-010228d5efb0","path":"sprites/sCharredLogThree/sCharredLogThree.yy",},},},"Disabled":false,"id":"45880ce5-d796-4146-b15a-c4693375e08d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3e079568-b27b-46fd-be0a-fc30f22b4a9b","path":"sprites/sCharredLogThree/sCharredLogThree.yy",},},},"Disabled":false,"id":"b92c5073-756f-4a3f-a049-db6ff0faca2d","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 26,
 }

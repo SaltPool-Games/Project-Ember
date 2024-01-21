@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sFlowerThree",
-  "bbox_bottom": 111,
-  "bbox_left": 69,
-  "bbox_right": 74,
-  "bbox_top": 106,
+  "bbox_bottom": 5,
+  "bbox_left": 0,
+  "bbox_right": 5,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"31ea5093-362b-4ac2-b50f-93e176c64aca",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"3771479f-8ee6-4509-b040-92744b2922d2",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 6,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"286b2092-2ebe-47a8-b48e-0bdd761930c4","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d0e44731-1711-4d97-be97-630297bb26dd","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"31ea5093-362b-4ac2-b50f-93e176c64aca","path":"sprites/sFlowerThree/sFlowerThree.yy",},},},"Disabled":false,"id":"95e5c44b-6906-44ce-83a6-b05650de3211","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"3771479f-8ee6-4509-b040-92744b2922d2","path":"sprites/sFlowerThree/sFlowerThree.yy",},},},"Disabled":false,"id":"c8128d3b-8026-4665-a566-ba9900453e0f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 6,
 }

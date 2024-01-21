@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sCharredLogOne",
-  "bbox_bottom": 113,
-  "bbox_left": 47,
-  "bbox_right": 68,
-  "bbox_top": 103,
+  "bbox_bottom": 10,
+  "bbox_left": 0,
+  "bbox_right": 21,
+  "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,14 +13,14 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"65e9c1dc-8053-4ed3-93c8-4e8cf0b6e714",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"c2eb3c12-9321-447b-9faf-72bd9411bbc1",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 128,
+  "height": 11,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"3751faec-a4e6-4b33-ab2d-59abad4a63db","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"5562a207-b76b-4af0-99cd-5f7526af2e35","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"65e9c1dc-8053-4ed3-93c8-4e8cf0b6e714","path":"sprites/sCharredLogOne/sCharredLogOne.yy",},},},"Disabled":false,"id":"45670718-1ada-4d6d-ba27-b2079f150b0f","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"c2eb3c12-9321-447b-9faf-72bd9411bbc1","path":"sprites/sCharredLogOne/sCharredLogOne.yy",},},},"Disabled":false,"id":"fab92ec2-b678-410e-948b-46ba34a1a1df","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 128,
+  "width": 22,
 }
