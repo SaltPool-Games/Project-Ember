@@ -1,8 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oTreeTwo",
-  "eventList": [],
+  "name": "oLanguageButton",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -24,10 +26,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "sTreeTwo",
-    "path": "sprites/sTreeTwo/sTreeTwo.yy",
+    "name": "sLanguageButton",
+    "path": "sprites/sLanguageButton/sLanguageButton.yy",
   },
   "spriteMaskId": null,
   "visible": true,
