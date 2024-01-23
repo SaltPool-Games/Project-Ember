@@ -2,7 +2,9 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "oSmallRock",
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oEmber","path":"objects/oEmber/oEmber.yy",},"eventNum":0,"eventType":4,"isDnD":true,},
+  ],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -10,7 +12,7 @@
     "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
-  "persistent": true,
+  "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
   "physicsFriction": 0.2,
