@@ -1,11 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oEmber",
+  "name": "oBackbutton",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":69,"eventType":9,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":6,"isDnD":true,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -28,10 +26,10 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
-    "name": "sEmberIdle",
-    "path": "sprites/sEmberIdle/sEmberIdle.yy",
+    "name": "Sprite56",
+    "path": "sprites/Sprite56/Sprite56.yy",
   },
   "spriteMaskId": null,
   "visible": true,

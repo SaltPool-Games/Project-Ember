@@ -47,7 +47,7 @@ if (_oldSprite != sprite_index) localFrame = 0; //Sets things to Idle animation 
 if (_xinput != 0 || _yinput  != 0) {
 	direction = inputDirection
 
-PlayerAnimateSprite();
+	PlayerAnimateSprite();
 } else { 
 	image_index = 16;
 }
