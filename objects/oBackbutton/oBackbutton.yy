@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "Sprite56",
-    "path": "sprites/Sprite56/Sprite56.yy",
+    "name": "sBackButton",
+    "path": "sprites/sBackButton/sBackButton.yy",
   },
   "spriteMaskId": null,
   "visible": true,

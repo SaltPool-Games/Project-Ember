@@ -5,6 +5,7 @@ var _up = keyboard_check(vk_up) || keyboard_check(ord("W"));
 var _down = keyboard_check(vk_down) || keyboard_check(ord("S"));
 var _ignite = keyboard_check_pressed(ord("E")); // Setting a variable that will check if the E key is pressed to activate the solo item ignite ability
 var _aoe_ignite = keyboard_check_pressed(ord("Q"));//Setting a variable that will check if the Q key is pressed to activate the AOE ignite ability
+var _escape = keyboard_check_pressed(vk_escape)
 
 var inputDirection = point_direction(0,0,_right-_left,_down-_up); //Helps to dertermine the angle of movement
 //var inputMagnitude = (_right - _left != 0) || (_down - _up != 0); //cancels out if left and right or up and down is pressed at the same time
@@ -16,9 +17,30 @@ var _speed_walk = 2
 var _array_collision_group_one = [oTreeOne, 
 oTreeTwo, 
 oSmallRock,
+oBigRockOne,
+oBigRockThree,
+oBurnedTreeOne,
+oBurnedTreeTwo,
+oCampfireLit,
+oCampfireNotLit,
+oCharredLogOne,
+oCharredLogTwo,
+oLogOne,
+oLogTwo,
+oLogThree,
+oCharredLogThree,
+oTreeStump,
+oCharredTreeStumpSmall,
+oCharredTreestumpLarge,
+oTent,
 ]  
 
+var _array_collision_group_two = [oMushroomOne]
+
+
 move_and_collide(_xinput * _speed_walk, _yinput * _speed_walk, _array_collision_group_one)
+
+
 
 //Movement
 //hSpeed = lengthdir_x(inputMagnitude * _speed_walk, inputDirection);
