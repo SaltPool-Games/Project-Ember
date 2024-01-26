@@ -31,8 +31,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "sEmberIdle",
-    "path": "sprites/sEmberIdle/sEmberIdle.yy",
+    "name": "sEmberIdleDown",
+    "path": "sprites/sEmberIdleDown/sEmberIdleDown.yy",
   },
   "spriteMaskId": null,
   "visible": true,

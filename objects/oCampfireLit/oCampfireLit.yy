@@ -4,12 +4,17 @@
   "name": "oCampfireLit",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"oParentBurnables","path":"objects/oParentBurnables/oParentBurnables.yy",},"propertyId":{"name":"useSound","path":"objects/oParentBurnables/oParentBurnables.yy",},"value":"sndCampfire",},
+  ],
   "parent": {
     "name": "Objects",
     "path": "folders/Objects.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oParentBurnables",
+    "path": "objects/oParentBurnables/oParentBurnables.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

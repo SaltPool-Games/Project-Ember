@@ -2,9 +2,9 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sPlayButtonAnimation",
-  "bbox_bottom": 0,
+  "bbox_bottom": 14,
   "bbox_left": 0,
-  "bbox_right": 0,
+  "bbox_right": 37,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,20 +13,20 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"09b17a88-51b8-4ea3-b4a6-b4e8e9f44aba",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"efc6a080-73f5-4909-bfe2-76bded11d4d8",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 64,
+  "height": 16,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"217f0aa1-e998-4aa0-9e04-aecd5a912533","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"e3b3a6bd-38a0-4886-937c-0789d42717ea","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
   ],
   "nineSlice": null,
   "origin": 0,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Menu Buttons",
+    "path": "folders/Sprites/Menu Buttons.yy",
   },
   "preMultiplyAlpha": false,
   "sequence": {
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"09b17a88-51b8-4ea3-b4a6-b4e8e9f44aba","path":"sprites/sPlayButtonAnimation/sPlayButtonAnimation.yy",},},},"Disabled":false,"id":"e1cbd13f-b7e9-489a-86a4-66121ee451bd","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"efc6a080-73f5-4909-bfe2-76bded11d4d8","path":"sprites/sPlayButtonAnimation/sPlayButtonAnimation.yy",},},},"Disabled":false,"id":"d459e27e-d909-44a6-b41c-308cbef04a3e","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -70,5 +70,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 64,
+  "width": 40,
 }

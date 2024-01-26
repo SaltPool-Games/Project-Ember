@@ -26,8 +26,8 @@
   "properties": [],
   "solid": true,
   "spriteId": {
-    "name": "sCharredTreeTwo",
-    "path": "sprites/sCharredTreeTwo/sCharredTreeTwo.yy",
+    "name": "sCharredTreeLargeOne",
+    "path": "sprites/sCharredTreeLargeOne/sCharredTreeLargeOne.yy",
   },
   "spriteMaskId": null,
   "visible": true,
